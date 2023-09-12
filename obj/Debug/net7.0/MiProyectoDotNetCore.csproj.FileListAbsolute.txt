@@ -1,0 +1,14 @@
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\bin\Debug\net7.0\MiProyectoDotNetCore.exe
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\bin\Debug\net7.0\MiProyectoDotNetCore.deps.json
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\bin\Debug\net7.0\MiProyectoDotNetCore.runtimeconfig.json
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\bin\Debug\net7.0\MiProyectoDotNetCore.dll
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\bin\Debug\net7.0\MiProyectoDotNetCore.pdb
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\obj\Debug\net7.0\MiProyectoDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\obj\Debug\net7.0\MiProyectoDotNetCore.AssemblyInfoInputs.cache
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\obj\Debug\net7.0\MiProyectoDotNetCore.AssemblyInfo.cs
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\obj\Debug\net7.0\MiProyectoDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\obj\Debug\net7.0\MiProyectoDotNetCore.dll
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\obj\Debug\net7.0\refint\MiProyectoDotNetCore.dll
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\obj\Debug\net7.0\MiProyectoDotNetCore.pdb
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\obj\Debug\net7.0\MiProyectoDotNetCore.genruntimeconfig.cache
+C:\Users\Apache\Desktop\Project\MiProyectoDotNetCore\obj\Debug\net7.0\ref\MiProyectoDotNetCore.dll

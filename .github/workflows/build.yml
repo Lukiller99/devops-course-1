@@ -1,0 +1,36 @@
+name: Build .NET Core
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout código fuente
+      uses: actions/checkout@v2
+
+    - name: Configurar el entorno de .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '7.0'  # Puedes especificar la versión de .NET Core que necesitas
+
+    - name: Restaurar dependencias y construir
+      run: |
+        dotnet restore
+        dotnet build --configuration Release
+
+    - name: Ejecutar pruebas (opcional)
+      run: dotnet test
+
+    - name: Publicar aplicación
+      run: dotnet publish -c Release -o ./publish
+
+    - name: Archivar archivos de artefactos
+      uses: actions/upload-artifact@v2
+      with:
+        name: publish
+        path: ./publish
